@@ -1,19 +1,36 @@
-### Opa! sou Lucas ou também Zuki 👋
+# Olá, eu sou o Lucas Lima! 👋
 
-- 🔭 Hoje trabalho com front-ent
-- 🌱 Estudando PHP
-- 📚 Sempre é bom aprender mais um pouco
+<p align="left">
+  Sou um Desenvolvedor de Software de Pernambuco, Brasil. Atualmente, estou cursando <strong>Sistemas de Informação</strong> e sou completamente apaixonado por criar soluções digitais que sejam elegantes, performáticas e, acima de tudo, que resolvam problemas reais.
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Zuki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Zuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Zuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
 
-###
+### 🚀 Minhas Ferramentas e Tecnologias
 
-<div> 
-  <a href="https://instagram.com/_zuki30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:zukimasc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>.
-  <a href="https://www.linkedin.com/in/lucas-lima-a60739290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,nodejs,php,laravel,postgres,mysql,firebase,git,figma,vscode&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaszki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszki&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="mailto:seuemailprofissional@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
