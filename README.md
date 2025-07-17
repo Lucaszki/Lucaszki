@@ -10,9 +10,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,nodejs,php,laravel,postgres,mysql,firebase,git,figma,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,,js,html,css,nodejs,php,,mysql,git,figma,vscode&perline=8" />
   </a>
-</p>
+</p
 
 ---
 
