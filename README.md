@@ -31,6 +31,6 @@
   <a href="mailto:seuemailprofissional@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-  <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-lima-a60739290/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
