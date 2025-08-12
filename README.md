@@ -12,10 +12,8 @@ Sou um **Desenvolvedor de Software** de Pernambuco, Brasil. Atualmente, estou cu
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
-  [![Lucas Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Lucas Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaszki&show_icons=true&theme=dark)](https://github.com/lucaszki)
 </p>
 
 ---
@@ -23,7 +21,7 @@ Sou um **Desenvolvedor de Software** de Pernambuco, Brasil. Atualmente, estou cu
 ### 💻 Linguagens Mais Usadas
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszki&layout=compact&theme=dark)](https://github.com/lucaszki)
 </p>
 
 ---
