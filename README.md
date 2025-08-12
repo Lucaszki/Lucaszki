@@ -7,7 +7,7 @@ Sou um **Desenvolvedor de Software** de Pernambuco, Brasil. Atualmente, estou cu
 ### 🚀 Ferramentas e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,figma,vscode" alt="Ferramentas e Tecnologias">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,figma,vscode" alt="Ferramentas e Tecnologias">
 </div>
 
 ---
