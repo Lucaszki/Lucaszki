@@ -12,19 +12,6 @@ Sou um **Desenvolvedor de Software** de Pernambuco, Brasil. Atualmente, estou cu
 
 ---
 
-<p align="center">
-  [![Lucas Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaszki&show_icons=true&theme=dark)](https://github.com/lucaszki)
-</p>
-
----
-
-### 💻 Linguagens Mais Usadas
-
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszki&layout=compact&theme=dark)](https://github.com/lucaszki)
-</p>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-perfil-do-linkedin">
